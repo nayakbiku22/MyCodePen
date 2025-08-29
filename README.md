@@ -1,5 +1,5 @@
 
-This a clone of Codepen whilch is used to run HTML,CSS,JavaScript
+This a clone of Codepen which is used to run HTML,CSS,JavaScript code.
 [Deplyment Link is here](https://mycodepen-z2sv.onrender.com)
 
 
