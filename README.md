@@ -1,6 +1,6 @@
 
 This a clone of Codepen which is used to run HTML,CSS,JavaScript code.
-[Deplyment Link is here](https://mycodepen-z2sv.onrender.com)
+[Deployment Link is here](https://mycodepen-z2sv.onrender.com)
 
 
 # React + Vite
